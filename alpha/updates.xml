@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="chipbmeagjkfghlcpgagonblaamkccfb">
-    <updatecheck codebase="https://cybernetic-initiatives.github.io/d1-extension-pages/alpha/artifacts/20260701T014511Z-master-1a75eff/d1-extension-0.2.3.crx" version="0.2.3" />
+    <updatecheck codebase="https://cybernetic-initiatives.github.io/d1-extension-pages/alpha/artifacts/20260701T161217Z-fix-nintendo-allowed-hours-1d4009e/d1-extension-0.2.4.crx" version="0.2.4" />
   </app>
 </gupdate>
