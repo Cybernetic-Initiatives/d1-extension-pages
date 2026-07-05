@@ -1,5 +1,24 @@
 [
   {
+    "deployId": "20260705T223542Z-master-23db908",
+    "version": "0.2.7",
+    "branch": "master",
+    "branchSlug": "master",
+    "commit": "23db908",
+    "publishedAt": "2026-07-05T22:35:42Z",
+    "extensionId": "chipbmeagjkfghlcpgagonblaamkccfb",
+    "latestZipUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/latest.zip",
+    "latestCrxUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/latest.crx",
+    "latestMetadataUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/latest.json",
+    "historyUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/history.json",
+    "deployJsonUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/20260705T223542Z-master-23db908/deploy.json",
+    "zipUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/20260705T223542Z-master-23db908/d1-extension-0.2.7.zip",
+    "versionedZipUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/20260705T223542Z-master-23db908/d1-extension-0.2.7.zip",
+    "crxUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/20260705T223542Z-master-23db908/d1-extension-0.2.7.crx",
+    "versionedCrxUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/20260705T223542Z-master-23db908/d1-extension-0.2.7.crx",
+    "updateUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/updates.xml"
+  },
+  {
     "deployId": "20260702T214217Z-master-a2f7d2b",
     "version": "0.2.6",
     "branch": "master",

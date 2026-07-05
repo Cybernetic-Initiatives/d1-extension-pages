@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="chipbmeagjkfghlcpgagonblaamkccfb">
-    <updatecheck codebase="https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/20260702T214217Z-master-a2f7d2b/d1-extension-0.2.6.crx" version="0.2.6" />
+    <updatecheck codebase="https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/20260705T223542Z-master-23db908/d1-extension-0.2.7.crx" version="0.2.7" />
   </app>
 </gupdate>
