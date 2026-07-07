@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="chipbmeagjkfghlcpgagonblaamkccfb">
-    <updatecheck codebase="https://cybernetic-initiatives.github.io/d1-extension-pages/alpha/artifacts/20260706T223709Z-fix-nintendo-failed-api-8e488bb/d1-extension-0.2.8.crx" version="0.2.8" />
+    <updatecheck codebase="https://cybernetic-initiatives.github.io/d1-extension-pages/alpha/artifacts/20260707T023734Z-fix-nintendo-failed-api-59abb7f/d1-extension-0.2.9.crx" version="0.2.9" />
   </app>
 </gupdate>
