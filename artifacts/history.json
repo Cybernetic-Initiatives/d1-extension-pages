@@ -1,5 +1,24 @@
 [
   {
+    "deployId": "20260707T142602Z-fix-nintendo-failed-api-f7e35dd",
+    "version": "0.2.10",
+    "branch": "fix-nintendo-failed-api",
+    "branchSlug": "fix-nintendo-failed-api",
+    "commit": "f7e35dd",
+    "publishedAt": "2026-07-07T14:26:02Z",
+    "extensionId": "chipbmeagjkfghlcpgagonblaamkccfb",
+    "latestZipUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/latest.zip",
+    "latestCrxUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/latest.crx",
+    "latestMetadataUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/latest.json",
+    "historyUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/history.json",
+    "deployJsonUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/20260707T142602Z-fix-nintendo-failed-api-f7e35dd/deploy.json",
+    "zipUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/20260707T142602Z-fix-nintendo-failed-api-f7e35dd/d1-extension-0.2.10.zip",
+    "versionedZipUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/20260707T142602Z-fix-nintendo-failed-api-f7e35dd/d1-extension-0.2.10.zip",
+    "crxUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/20260707T142602Z-fix-nintendo-failed-api-f7e35dd/d1-extension-0.2.10.crx",
+    "versionedCrxUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/artifacts/20260707T142602Z-fix-nintendo-failed-api-f7e35dd/d1-extension-0.2.10.crx",
+    "updateUrl": "https://cybernetic-initiatives.github.io/d1-extension-pages/updates.xml"
+  },
+  {
     "deployId": "20260705T223542Z-master-23db908",
     "version": "0.2.7",
     "branch": "master",
